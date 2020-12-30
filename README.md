@@ -6,4 +6,4 @@ NFC scanner application developed with Flutter
 
 
 
-<kbd><img src="https://raw.githubusercontent.com/ahmeteminkara/nfc_scanner/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="150" /></kbd>
+<img src="https://raw.githubusercontent.com/ahmeteminkara/nfc_scanner/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="150" />
