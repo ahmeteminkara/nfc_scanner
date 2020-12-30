@@ -8,7 +8,7 @@
         android:required="true" />
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="nfc_scanner"
+        android:label="NFC Scanner"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
