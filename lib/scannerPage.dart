@@ -32,7 +32,7 @@ class _ScannerPageState extends State<ScannerPage> {
       print("id: ${onData.id}");
       print("content: ${onData.content}");
 
-      
+
     });
   }
 
@@ -48,7 +48,7 @@ class _ScannerPageState extends State<ScannerPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("NFC Tarama")),
+      appBar: AppBar(title: Text("NFC Scanner")),
       floatingActionButton: fab,
       body: Container(
         padding: EdgeInsets.all(20),
